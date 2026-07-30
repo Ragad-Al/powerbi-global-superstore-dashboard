@@ -320,10 +320,10 @@ In the completed dashboard view, the cards display approximately:
 
 | KPI | Value |
 |---|---:|
-| Total Sales | £123,854 |
-| Total Profit | £16,512 |
-| Profit Margin | 13.3% |
-| Total Orders | 483 |
+| Total Sales | ££252.69K |
+| Total Profit | £25K |
+| Profit Margin |10.0% |
+| Total Orders | 976 |
 
 ### Monthly Sales Trend
 
@@ -378,7 +378,7 @@ The strongest performers included:
 - Phones
 - Accessories
 
-Binders recorded a substantial loss of approximately **£11.2K**, making it a clear area for investigation.
+Chairs recorded a loss of approximately £1K, making it the clearest sub-category for further investigation.
 
 ### Sales and Profit by Category
 
@@ -481,9 +481,9 @@ Office Supplies generated significantly more profit than Furniture or Technology
 
 Its performance was supported by profitable sub-categories including Storage, Paper, Art, Supplies, and Appliances.
 
-### Binders Required Investigation
+### Chairs Required Investigation
 
-Binders recorded the largest sub-category loss.
+Chairs recorded the largest sub-category loss and should be reviewed for pricing, discounting, and cost issues.
 
 Possible areas for further investigation include:
 
